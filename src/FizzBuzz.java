@@ -5,7 +5,7 @@ public class FizzBuzz {
 
 
 
-        for ( int nbr=1 ; nbr < 100 ; nbr++){
+        for ( int nbr=1 ; nbr < 180 ; nbr++){
             if (nbr%3 == 0 && nbr%5 !=0) {
                 System.out.println(nbr + " : Fizz");
             }else if (nbr%5 == 0 && nbr%3 !=0){
