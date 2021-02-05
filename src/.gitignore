@@ -1,0 +1,8 @@
+# ignorer les fichiers .class
+*.class
+
+# ignorer les dossier d'IntelliJ
+.idea/
+
+# ignorer les fichiers compilés
+out/
